@@ -1,8 +1,3 @@
-# Fily
-
-a file sharing platform written in nodejs
-
-## Files Layout
 
 | File     | job            |
 | -------- | -------------- |
